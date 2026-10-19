@@ -1,3 +1,11 @@
 User-agent: *
 Allow: /
+
 Sitemap: https://salvatoresinatra0001-ux.github.io/sitemap.xml
+Sitemap: https://salvatoresinatra0001-ux.github.io/music-archives-italia/sitemap.xml
+Sitemap: https://salvatoresinatra0001-ux.github.io/heartagram-italia/sitemap.xml
+Sitemap: https://salvatoresinatra0001-ux.github.io/sandra-italia/sitemap.xml
+Sitemap: https://salvatoresinatra0001-ux.github.io/assemblage23-italia/sitemap.xml
+Sitemap: https://salvatoresinatra0001-ux.github.io/mesh-italia/sitemap.xml
+Sitemap: https://salvatoresinatra0001-ux.github.io/the-birthday-massacre-italia/sitemap-github.xml
+Sitemap: https://salvatoresinatra0001-ux.github.io/salvatore-sinatra-web/sitemap.xml
